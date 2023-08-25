@@ -17,8 +17,8 @@ Once you written code that will successfully take a number in with any format an
 
 When your program is done your database entries should look like this (the order is irrelevant, but duplicates should be removed):
 
-1234567890
-1234567891
-1234567892
-1234567893
-1234567894
+1234567890  
+1234567891  
+1234567892  
+1234567893  
+1234567894  
